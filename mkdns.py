@@ -3,7 +3,7 @@
 # mkdns.py - generates output for input to nsupdate
 #  making it easy to update dynamic dns
 #
-# created March 2026 by Robert Patrick;
+# created March 22, 2026 by Robert Patrick;
 #  based on 2012 Perl script, mkdns
 #  ported in partnership with AI
 #
